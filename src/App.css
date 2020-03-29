@@ -18,4 +18,5 @@ canvas {
   font-size: 10vw;
   line-height: 1;
   margin: 0;
+  pointer-events: none;
 }
